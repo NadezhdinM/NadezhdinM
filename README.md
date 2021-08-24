@@ -16,9 +16,7 @@
 [<img align="left" alt="maks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="maks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="maks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="maks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="maks | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="maks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
 
 <br/>
 
@@ -29,6 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
+![MobX](https://img.shields.io/badge/-MobX-333333?style=flat&logo=mobx)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS/SCSS-333333?style=flat&logo=SASS)&nbsp;
@@ -49,7 +48,6 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)&nbsp;
 ![EsLint](https://img.shields.io/badge/-EsLint-333333?style=flat&logo=eslint)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier)&nbsp;
-![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm&logoColor=ligthblue)&nbsp;
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=visualStudio&logoColor=ligthblue)&nbsp;
 ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=google-chrome&logoColor=#C7C4B9)&nbsp;
 
