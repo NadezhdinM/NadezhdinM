@@ -13,12 +13,12 @@
 
 ### 🤝 Connect with me:
 
-[<img align="left" alt="malik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="malik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="malik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="malik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="malik | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="malik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
+[<img align="left" alt="maks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="maks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="maks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="maks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="maks | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="maks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
 
 <br/>
 
@@ -59,7 +59,7 @@
 
 <br/>
 
-<!-- <img height="160em" align="left" alt="webDev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=malikimansaparov&theme=radical&show_icons=true" /> -->
+<!-- <img height="160em" align="left" alt="webDev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NadezhdinM&theme=radical&show_icons=true" /> -->
 <img height="160em" align="left" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NadezhdinM&theme=radical&layout=compact" />
 
 [telegram]: https://t.me/MaksimEfi
